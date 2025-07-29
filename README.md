@@ -1,4 +1,4 @@
-# OMOP-CDM-API
+# OMOP CDM API
 
 ## Introduction
 
